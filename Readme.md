@@ -1,5 +1,2 @@
 !Hello!
  
-dsdasdas
-фі
-a
