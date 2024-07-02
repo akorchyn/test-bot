@@ -1,1 +1,1 @@
-!Hello!
+Smile and be happy
