@@ -1,3 +1,2 @@
 
-@race-of-sloths score 8
- 
+@race-of-sloths score 
