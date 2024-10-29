@@ -1,2 +1,2 @@
 
-@race-of-sloths score 5
+@race-of-sloths scor   5
